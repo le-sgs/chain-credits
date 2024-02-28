@@ -11,8 +11,8 @@ npx hardhat test
 npx hardhat run scripts/deploy.js --network ganache
 ```
 
-Remember to create sub-folder "carbon-credits-marketplace" and install React in it.
-First, install Node.js and npm.
+Remember to create sub-folder "carbon-credits-marketplace". First, install Node.js and npm.and install React in it.
+
 Then, create a React app by running
 ```shell
 npx create-react-app carbon-credits-marketplace
