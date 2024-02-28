@@ -1,4 +1,4 @@
-![image](https://github.com/le-sgs/chain-credits/chaincreditslogo.png)
+![image]([https://github.com/le-sgs/chain-credits/chaincreditslogo.png](https://github.com/le-sgs/chain-credits/blob/main/chaincreditslogo.png))
 # Blockchain-based carbon credits marketplace (Hardhat + Ganache)
 
 This project demonstrates a blockchain-based hardhat project with basic functions. It comes with 2 contracts, tests for those contracts, and a script that deploys those contracts.
@@ -11,7 +11,7 @@ npx hardhat test
 npx hardhat run scripts/deploy.js --network ganache
 ```
 
-Remember to create sub-folder "carbon-credits-marketplace". First, install Node.js and npm.and install React in it.
+Remember to create sub-folder "carbon-credits-marketplace". First, install Node.js and npm. Then install React in the sub-folder.
 
 Then, create a React app by running
 ```shell
