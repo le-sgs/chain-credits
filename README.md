@@ -11,3 +11,5 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+Remember to create sub-folder "carbon-credits-marketplace" and install React in it. 
