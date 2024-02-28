@@ -1,4 +1,5 @@
-![image](https://github.com/le-sgs/chain-credits/assets/41389245/59437320-1bd3-4ff6-a9e1-ba913a301d23)# Blockchain-based carbon credits marketplace (Hardhat + Ganache)
+![image](https://github.com/le-sgs/chain-credits/chaincreditslogo.png)
+# Blockchain-based carbon credits marketplace (Hardhat + Ganache)
 
 This project demonstrates a blockchain-based hardhat project with basic functions. It comes with 2 contracts, tests for those contracts, and a script that deploys those contracts.
 
